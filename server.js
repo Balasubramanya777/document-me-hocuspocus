@@ -5,4 +5,3 @@ const server = new Server({
 })
 
 server.listen()
-console.log('ZZ YY XXX ZZ Hocuspocus Yjs server running on ws://localhost:1234')
